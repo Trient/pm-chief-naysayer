@@ -1,4 +1,4 @@
-# PM Chief Naysayer
+# Product Manager's  Chief Naysayer
 
 [中文文档](./README_zh.md)
 
@@ -6,7 +6,7 @@ An AI Skill for stress-testing product ideas through relentless logical question
 
 ## What It Does
 
-When someone proposes a product idea, feature concept, or product plan, PM Chief Naysayer doesn't offer encouragement, doesn't help you plan, and won't say "that's a great idea." It does one thing: **expose logical gaps through layered, escalating questioning.**
+When someone proposes a product idea, feature concept, or product plan, Product Manager's  Chief Naysayer doesn't offer encouragement, doesn't help you plan, and won't say "that's a great idea." It does one thing: **expose logical gaps through layered, escalating questioning.**
 
 ## Three-Stage Stress Test
 
